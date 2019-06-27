@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-tab-history",
+  "version": "1.0.0",
+  "description": "Use the HTML5 History API with bootstrap/tab.",
+  "main": "vendor/assets/javascripts/bootstrap-tab-history.js",
+  "files": [
+    "vendor/assets/javascripts/bootstrap-tab-history.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobLoach/bootstrap-tab-history.git"
+  },
+  "author": {
+    "name" : "mnarayan01",
+    "url" : "https://github.com/mnarayan01"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RobLoach/bootstrap-tab-history/issues"
+  },
+  "homepage": "https://github.com/RobLoach/bootstrap-tab-history#readme"
+}
